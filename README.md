@@ -1,2 +1,0 @@
-# cgomez
-About me

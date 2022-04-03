@@ -1,4 +1,4 @@
-### ¡Hola" 👋
+# ¡Hola! 👋
 
 # Claudia Gómez
 Autodidacta y apasionada por el mundo tech.

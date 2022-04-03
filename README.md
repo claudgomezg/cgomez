@@ -1,7 +1,7 @@
 # ¡Hola! 👋
 
-# Claudia Gómez
-Autodidacta y apasionada por el mundo tech.
+# Mi nombre es Claudia Gómez
+Soy una nerd autodidacta y apasionada por el mundo tech.
 Trabajo con metodologías ágiles, enfocada en la completitud de soluciones eficientes y eficaces.
 Con dedicación y disciplina me involucré en el mundo TI y estoy en busca de mi primer empleo en el área.
 

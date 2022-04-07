@@ -1,4 +1,4 @@
-# ¡Hola! 👋
+# ¡Hola mundo! 👋
 
 # Mi nombre es Claudia Gómez
 Soy una nerd autodidacta y apasionada por el mundo tech.
